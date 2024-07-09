@@ -1,0 +1,12 @@
+Initial balance for Account 123 has been set to NPR 1000.00
+
+Initial balance for Account 999 has been set to NPR 2000.00
+
+Your 999## has been Debited by NPR 100.00 on Thu Nov 09 21:51:03 2023
+Remarks:Transfer to acc 123##. Download MoBank - http://bit.ly/MoBank4.
+ADHIKARI BANK
+
+Your 123## has been Credited by NPR 100.00 on Thu Nov 09 21:51:03 2023
+Remarks:Transfer from acc 999##. Download MoBank - http://bit.ly/MoBank4.
+ADHIKARI BANK
+

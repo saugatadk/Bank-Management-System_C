@@ -1,0 +1,12 @@
+Account Number: 123
+Account Holder's Name: saugat
+Account Password: 123
+4-digit Pin:1231
+Initialbalance:1000.00
+
+Account Number: 999
+Account Holder's Name: adhikari
+Account Password: 555
+4-digit Pin:1231
+Initialbalance:2000.00
+
